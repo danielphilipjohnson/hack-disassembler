@@ -1,0 +1,6 @@
+// Disassembled on <timestamp> by HackDisasm v1.0
+@R2
+D=D+A
+@VAR_0
+D=M
+@VAR_1
